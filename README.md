@@ -1,5 +1,5 @@
-### Hi there, I'm Jacob 👋
-#### [LinkedIn](https://www.linkedin.com/in/jacobwood176/) | [Itch.io](https://yakobay.itch.io/franks-cleaning-service)
+### <p align="center"> Hi there, I'm Jacob 👋 </p>
+#### <p align="center"> [LinkedIn](https://www.linkedin.com/in/jacobwood176/) | [Itch.io](https://yakobay.itch.io/franks-cleaning-service) </p>
 <!--
 **jwood7/jwood7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
