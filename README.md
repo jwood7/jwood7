@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Jacob 👋
+#### [LinkedIn](https://www.linkedin.com/in/jacobwood176/)
 <!--
 **jwood7/jwood7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I am currently a Computer Science Major with a Minor in Visual Arts and Technology at Stevens Institute of Technology
+
+🌱 I am learning about Web Programming and Agile Methodologies in class right now
+
+🔭 I am working on a personal website and game design projects outside of class
