@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🎓 I am currently a Computer Science Major with a Minor in Visual Arts and Technology at Stevens Institute of Technology
 
-🌱 I am learning about Web Programming and Agile Methodologies in class right now
-
+<!--🌱 I am learning about Web Programming and Agile Methodologies in class right now
+-->
 :office: I have work experience with Front End and Full Stack Web Development
 
 🔭 I am working on a personal website and game design projects outside of class
