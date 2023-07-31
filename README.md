@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I am currently a Computer Science Major with a Minor in Visual Arts and Technology at Stevens Institute of Technology
+🎓 I am a recent Computer Science graduate with a Minor in Visual Arts and Technology at Stevens Institute of Technology
 
 <!--🌱 I am learning about Web Programming and Agile Methodologies in class right now
 -->
