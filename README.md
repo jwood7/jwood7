@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 :office: I have work experience with Front End and Full Stack Web Development
 
-🔭 I am working on game design projects outside of class
+🔭 I am working on game design projects, and discord bots that analyze gameplay stats
